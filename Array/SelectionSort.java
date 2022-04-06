@@ -1,6 +1,7 @@
 package Array;
 
 import java.util.Arrays;
+import java.util.List;
 
 public class SelectionSort {
     // This is the first method of selection sort.
@@ -37,6 +38,7 @@ public class SelectionSort {
             arr[j+1] = temp;
         }
     }
+
 
     public static void main(String[] args) {
         int[] arr = {1, 5, 4, 3, 0, 2, 9, 1};
