@@ -1,9 +1,7 @@
 package Array;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
-import java.util.Stack;
 
 /*
 Find pairs with given sum in sorted Array.

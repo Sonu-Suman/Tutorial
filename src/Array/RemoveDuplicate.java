@@ -1,8 +1,6 @@
 package Array;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class RemoveDuplicate {
     public static void Method1(int[] arr){

@@ -24,7 +24,6 @@ To solve this question in given Time complexity and Space complexity.
 
 
 import java.util.*;
-import LinkedList.SingleLL.*;
 
 public class MergeTwoSorted {
     public static int[] Merge(int[] arr1, int[] arr2){

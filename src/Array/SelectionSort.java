@@ -1,7 +1,6 @@
 package Array;
 
 import java.util.Arrays;
-import java.util.List;
 
 public class SelectionSort {
     // This is the first method of selection sort.

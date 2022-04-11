@@ -21,9 +21,6 @@ Time Complexity os this approach is O(n).
 
  */
 
-import java.util.Arrays;
-
-
 
 public class Segregate {
     public static void main(String[] args) {
